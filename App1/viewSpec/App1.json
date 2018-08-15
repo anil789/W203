@@ -77,7 +77,7 @@
     }
   ],
   "css" : {
-    "border" : "10px solid #ff0000"
+    "border" : "12px solid #ff0000"
   },
   "cssClass" : "trillo-container"
 }
