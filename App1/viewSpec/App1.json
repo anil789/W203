@@ -21,6 +21,7 @@
           "type" : "view"
         }
       ],
+      "cssClass" : "trillo-container-row",
       "designTimeHeight" : "49px",
       "tag" : "templateE",
       "type" : "row"
@@ -60,6 +61,7 @@
               "type" : "view"
             }
           ],
+          "cssClass" : "trillo-container-column",
           "designTimeHeight" : "100px",
           "flexGrow" : "1",
           "main" : true,
@@ -67,10 +69,15 @@
           "type" : "column"
         }
       ],
+      "cssClass" : "trillo-container-row",
       "flexGrow" : "1",
       "main" : true,
       "tag" : "templateE",
       "type" : "row"
     }
-  ]
+  ],
+  "css" : {
+    "border" : "10px solid #ff0000"
+  },
+  "cssClass" : "trillo-container"
 }
